@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className='max-w-xl mx-auto p-4'>
-      <h1 className='text-2xl font-bold mb-4 pt-16'>Task Manager</h1>
+      <h1 className='text-2xl font-bold mb-4 pt-16 text-center'>Task Manager</h1>
       <TaskForm/>
       <TaskList/>
     </div>
